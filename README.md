@@ -8,6 +8,15 @@ Grâce à son expertise unique sur l’ensemble du cycle de vie documentaire, Do
 
 Notre mission est simple : rendre la gestion documentaire plus intelligente, plus sécurisée, plus conforme et plus performante.
 
+👋 Guten Tag, wir sind @DocSeriesSA
+
+Doc.Series SA ist ein Schweizer Softwarehersteller und Marktführer im Bereich der elektronischen Dokumentenverwaltung, der Dokumentendigitalisierung, der intelligenten Dokumentenverarbeitung und der sicheren elektronischen Archivierung.
+
+Unsere Lösungen ermöglichen es Organisationen, ihre Dokumente mit modernen, sicheren und kollaborativen Werkzeugen zu zentralisieren, zu klassifizieren, zu verarbeiten, zu durchsuchen, zu teilen und zu archivieren. Doc.ECM bietet unter anderem automatische Dokumentenerkennung, Volltextsuche, Workflow-Management, Versionsverwaltung, elektronische Signatur, Nachverfolgbarkeit sowie erweiterte Funktionen für die Zusammenarbeit.
+
+Dank seiner einzigartigen Expertise über den gesamten Lebenszyklus von Dokumenten hinweg begleitet Doc.Series Unternehmen, öffentliche Verwaltungen, Gemeinden, Banken, Versicherungen und Industrieunternehmen bei ihrer digitalen Transformation.
+
+Unsere Mission ist einfach: Dokumentenmanagement intelligenter, sicherer, regelkonformer und effizienter zu gestalten.
 
 
 👋 Hi, we are @DocSeriesSA
