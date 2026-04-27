@@ -8,6 +8,8 @@ Grâce à son expertise unique sur l’ensemble du cycle de vie documentaire, Do
 
 Notre mission est simple : rendre la gestion documentaire plus intelligente, plus sécurisée, plus conforme et plus performante.
 
+-----
+
 👋 Guten Tag, wir sind @DocSeriesSA
 
 Doc.Series SA ist ein Schweizer Softwarehersteller und Marktführer im Bereich der elektronischen Dokumentenverwaltung, der Dokumentendigitalisierung, der intelligenten Dokumentenverarbeitung und der sicheren elektronischen Archivierung.
@@ -18,6 +20,7 @@ Dank seiner einzigartigen Expertise über den gesamten Lebenszyklus von Dokument
 
 Unsere Mission ist einfach: Dokumentenmanagement intelligenter, sicherer, regelkonformer und effizienter zu gestalten.
 
+-----
 
 👋 Hi, we are @DocSeriesSA
 
